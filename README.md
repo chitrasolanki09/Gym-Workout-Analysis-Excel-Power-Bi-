@@ -1,5 +1,10 @@
 # Gym-Workout-Analysis-Excel-Power-Bi-
 This project analyzes Gym Members' workout data using Excel (for data preparation &amp; analysis) and Power BI (for visualization). The dashboard provides insights into member demographics, workout preferences, BMI trends, calories burned, and experience levels.
+
+📌 Project Screenshots
+
+<img width="756" height="427" alt="Screenshot 2025-08-29 162632" src="https://github.com/user-attachments/assets/3e53e1ca-4f5f-4a50-9a1f-f993a81ae00f" />
+
 📂 Project Workflow
 
 Data Preparation (Excel)
@@ -63,10 +68,6 @@ Power BI → Dashboard & Visualizations
 Open the Excel file to view raw dataset & pivot summaries.
 
 Open the .pbix Power BI file to interact with the dashboard.
-
-📌 Project Screenshots
-
-<img width="756" height="427" alt="Screenshot 2025-08-29 162632" src="https://github.com/user-attachments/assets/3e53e1ca-4f5f-4a50-9a1f-f993a81ae00f" />
 
 
 📎 Author
